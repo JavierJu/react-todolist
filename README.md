@@ -1,8 +1,16 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1.1
+탭 제목 수정 및 Favicon 변경
+
+
+
+
+개선 사항
+ 리스트 삭제
+ 완료 체크 시 2줄 변경 후 완료 리스트로 이동
+ 리스트 작성 시간 표시, 완료 시간 표시
+ 기한 설정
+ 디테일 내용 추가 기능
+ 캘린더 연동
